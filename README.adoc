@@ -1,4 +1,7 @@
 = Java Übung: Verwendung von Predicates, Functions, Consumers und Suppliers
+Hanan Mehic
+2024-10-29
+
 
 == Ziel
 In dieser Übung wirst du Java-Funktionsschnittstellen verwenden, um die Nutzung von `Predicate`, `Function`, `Consumer` und `Supplier` zu verstehen.
